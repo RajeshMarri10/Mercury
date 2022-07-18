@@ -1,0 +1,2 @@
+# Mercury
+Git practise
